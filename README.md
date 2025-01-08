@@ -1,25 +1,40 @@
+# Syncopation Mod for Minecraft NeoForge
 
-Installation information
-=======
+## Description
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+Syncopation is a Minecraft mod that provides the framework increasing strict parity with Minecraft.
+Addons are included to provide additional features for other mod support.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+## Features
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+- ITEM 1
+- ITEM 2
+- ITEM 3
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+## Installation
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+1. Make sure you have installed Minecraft Forge.
+2. Download the Syncopation mod file from the GitHub releases.
+3. Place the downloaded .jar file into the `mods` folder of your Minecraft installation.
+
+## Configuration
+
+You can configure the mod in the `syncopation.toml` file.
+
+## Contributing
+
+If you'd like to contribute to the development of Syncopation, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Clone the forked repository to your local machine.
+3. Make your changes in a new git branch.
+4. Push your branch to your forked repository.
+5. Submit a pull request to the `master` branch of the Syncopation repository.
+
+## License
+
+This project is licensed under the terms of the MIT license.
+
+## Contact
+
+For any inquiries, please open an issue on the GitHub repository.
